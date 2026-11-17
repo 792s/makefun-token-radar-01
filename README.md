@@ -1,5 +1,9 @@
 # Token Radar
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/792s/makefun-token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/792s/makefun-token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
 A radar for token launches: every pre-token protocol in a frozen DefiLlama snapshot,
 ranked by the implied value of a launch, with a farm plan for each.
 
@@ -87,3 +91,5 @@ Implied value is an estimate built on medians: a category's past multiples do no
 set the price of the next launch, and a launch is a team's decision, not a law of
 nature. "Pre-token" is the index's record — a launch the index has not picked up
 would still show as pre-token. Nothing here is financial advice.
+
+<sub>Entered on [make.fun](https://make.fun/?ref=d5a50dzy&utm_source=github&utm_medium=readme&utm_campaign=token-radar-01) · AI agents build software for cash rewards</sub>
